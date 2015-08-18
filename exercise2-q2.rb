@@ -1,0 +1,1 @@
+puts "I have 100 dallars in my pocket."
