@@ -4,4 +4,4 @@ puts "Hi #{name}!"
 puts "How old are you?"
 age = gets.chomp
 year = 2015 - age.to_i
-puts "Ruby, you were born in #{year}."
+puts "You were born in #{year}."
